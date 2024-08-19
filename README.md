@@ -2,7 +2,7 @@
 
 _created_ by **Yoga Cahya Putra** (BPS Kab Pesawaran)
 
-_Kode ini sangat mungkin belum cukup efisien, sangat menerima masukan teman teman semua_
+_Kode ini mungkin belum cukup efisien, sangat menerima masukan teman teman semua_
 
 Perlu dilakukan penyesuaian 
 1. Perlu melakukan penggantian **folder path** yang mengarah ke folder tabulasi
