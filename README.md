@@ -11,6 +11,7 @@ Perlu dilakukan penyesuaian
 <img width="552" alt="Screenshot 2024-08-19 at 08 12 22" src="https://github.com/user-attachments/assets/5403903e-a8e9-436f-bea0-7b22700b8026">
 
 4. Perlu menyesuaikan folder outputnya sesuai keinginan
+   
 
 **Petunjuk Penggunaan**
 1. Sheet info merupakan sheet daftar isi file yang berisi hyperlink semua sheet yang ada pada excel
